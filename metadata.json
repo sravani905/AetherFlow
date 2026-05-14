@@ -1,0 +1,6 @@
+{
+  "name": "AetherFlow: The Infinite Orchestrator",
+  "description": "An ultimate phase-aware project management platform featuring AI-driven requirements gathering, predictive analytics, real-time collaboration, and resource optimization.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI-driven", "Real-time Collaboration", "Offline Sync"]
+}
